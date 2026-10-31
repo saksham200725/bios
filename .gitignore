@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Video and extracted frames
+*.mp4
+*.mov
+*.avi
+*.mkv
+frames/
+
+# Local data and outputs
+private_data/
+local_outputs/
+.env
