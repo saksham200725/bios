@@ -1,0 +1,28 @@
+
+{
+  "clip_id": "sample_001",
+  "events": [
+    {
+      "event_id": "event_001",
+      "start_sec": 1.2,
+      "end_sec": 2.5,
+      "action": "Grasp",
+      "hand_side": "right",
+      "object_label": "tool",
+      "contact_state": "estimated",
+      "tracking_quality": 0.91,
+      "review_status": "pending"
+    },
+    {
+      "event_id": "event_002",
+      "start_sec": 3.0,
+      "end_sec": 4.2,
+      "action": "Move",
+      "hand_side": "left",
+      "object_label": "component",
+      "contact_state": "none",
+      "tracking_quality": 0.85,
+      "review_status": "pending"
+    }
+  ]
+}
